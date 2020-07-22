@@ -1,6 +1,6 @@
-# Daily Exercises
+# 🏋🏻‍♀️ Daily Exercises 🏃🏾‍♀️
 
-You will need to clone this repository (once you learn how 😀).
+You will need to clone this repository, once you learn how 😀.
 
 Each morning by 9 AM EST, an issue with the label `Exercise` will be filed on this repository, and a link to it will be posted in MS Teams. The issue will contain instructions for your morning exercise. Submitting your work for the exercise will generally consist of either:
 
